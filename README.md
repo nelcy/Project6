@@ -1,4 +1,5 @@
-##Project 6 - Kubernetes + Simplified Networking and Storage
+#Project 6
+##Kubernetes + Simplified Networking and Storage
 ![alt tag](https://cloud.githubusercontent.com/assets/3618819/8199045/1a612582-1464-11e5-96ca-69ed66a399ab.png)
 
 ##About
@@ -6,7 +7,9 @@ Project 6 is software for deploying and managing Docker containers across a clus
 
 ##Setup
 
-Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+Install <a href="https://www.vagrantup.com" target="_blank">Vagrant</a> and 
+<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a>
+
 
 ##Quick start guide
 
